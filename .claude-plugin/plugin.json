@@ -1,0 +1,6 @@
+{
+  "name": "session-tracker",
+  "version": "0.1.0",
+  "description": "Side panel tracking subagents, token use and cost, todos, file diffs, pending items and difficulties, kept across sessions",
+  "types": "./types/index.d.ts"
+}
